@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Listando</string>
+    <string name="label_task">Tarefas</string>
+    <string name="label_title">Título</string>
+    <string name="label_date">Data</string>
+    <string name="label_time">Hora</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_maketask">Criar tarefa</string>
+    <string name="nova_tarefa">Nova tarefa</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+    <string name="no_task">Ops! Você não possui\n nenhuma tarefa.</string>
+</resources>
